@@ -1,6 +1,7 @@
 # Host_Firewall_Hardening
 
 Purpose
+
 Configured and secured a Linux host using UFW by applying a default deny policy, allowing only required services, enabling logging, and validating rule enforcement.
 
 Key actions
